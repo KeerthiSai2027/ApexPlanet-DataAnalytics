@@ -17,7 +17,6 @@ ApexPlanet-DataAnalytics-Task1/
 │   ├── Delinquency_prediction_dataset.csv      # Raw dataset
 │   └── cleaned_dataset.csv                     # Cleaned, analysis-ready dataset
 │
-├── data_dictionary.md                          # Column descriptions and business context
 ├── data_cleaning.py                            # Python cleaning & transformation script
 └── README.md                                   # Project overview (this file)
 ```
