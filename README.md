@@ -1,10 +1,5 @@
 # 🏦 ApexPlanet Internship – Task 1: Data Immersion & Wrangling
 
-> **Internship Program:** ApexPlanet Software Pvt. Ltd. – 60-Day Data Analytics Internship  
-> **Task:** Task 1 – Data Immersion & Wrangling  
-> **Timeline:** 10 Days  
-> **Dataset:** Delinquency Prediction Dataset  
-
 ---
 
 ## 📌 Objective
@@ -118,21 +113,6 @@ This will generate `data/cleaned_dataset.csv` — the analysis-ready dataset.
 
 ---
 
-## 📊 Key Observations
-
-- Customers with **higher Credit Utilization** and **more Missed Payments** are more likely to be delinquent.
-- `Employment_Status` had data entry inconsistencies that could skew analysis if uncleaned.
-- The 6-month payment history columns (`Month_1` to `Month_6`) are rich behavioural features that can be aggregated for predictive modelling.
-- **Income** had the most missing values (39 rows / ~8%) — handled via median imputation to preserve dataset size.
-
----
-
-## 🎥 LinkedIn Walkthrough Video
-
-> 📹 *[Paste your LinkedIn video link here after uploading]*
-
----
-
 ## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
@@ -141,14 +121,7 @@ This will generate `data/cleaned_dataset.csv` — the analysis-ready dataset.
 
 ---
 
-## 👤 Author
-
-**[Your Name]**  
-ApexPlanet Data Analytics Internship  
-📧 [your email]  
-🔗 [Your LinkedIn Profile]
-
----
+## 👤 Auth
 
 ## 🏢 About ApexPlanet
 
